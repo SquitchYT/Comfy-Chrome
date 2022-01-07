@@ -1,8 +1,7 @@
 {
-   "description": "Slate is cool and composed",
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvYRCP6AxJU3/I6AZ28n33DWHAUo9DJue+v7D0MHZNDHmCkZUfHGuZRCsjKpKiZh+SWb/S4zFb4mypwLJMF+LIuhQULKtftqmXqyZx1zyUodXgEDyfZ8P512LuMJZcuIEuoXFMF8pVv9Tv/jdAxunmwVHqEF9PSxazTKYrhrC1/QRCVroT+5AByi3E4STGGID7mn03ifVcT47ae1coAcG7QRFArXJIpcsmT1IutLxp2Ph61vai+FRgVDhcLWDU8BEn7UPsVK7eGe4ab0VP+Nutw9kJNTLkNqTkSE+EtXK0AQseb9DdZQztpFFwFX0M7GJUCXxALO7YZ7NVxRACZO/gwIDAQAB",
+   "description": "Stay Comfy while using Chrome",
    "manifest_version": 2,
-   "name": "Slate",
+   "name": "Comfy",
    "theme": {
       "colors": {
          "bookmark_text": [ 255, 255, 255 ],
