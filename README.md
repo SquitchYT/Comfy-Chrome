@@ -9,7 +9,7 @@
 
 ## Installation
   * Clone the repo `git clone https://github.com/SquitchYT/Comfy-Chrome`
-  * Goto `chrome://extenstions/` and enable developer mode
+  * Goto [`chrome://extensions/`](chrome://extensions/) and enable developer mode
   * Click `load unpacked` and select the theme folder
   * Enjoy
 
